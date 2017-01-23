@@ -7,12 +7,6 @@
     <packaging>jar</packaging>
     <name>project002</name>
     <url>http://maven.apache.org</url>
-    <developers>
-        <developer>
-            <name>Sascha Tayefeh</name>
-            <url>http://www.tayefeh.de</url>
-        </developer>
-    </developers>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
